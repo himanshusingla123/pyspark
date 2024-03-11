@@ -1433,10 +1433,5 @@ From Apache Spark 3.5.0, all functions support Spark Connect.</p>
 </table>
 </section>
 </section>
-
-
-              </div>
-              
-
-              
-          </main>
+</div>
+</main>
