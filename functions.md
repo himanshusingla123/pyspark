@@ -1437,23 +1437,6 @@ From Apache Spark 3.5.0, all functions support Spark Connect.</p>
 
               </div>
               
-              
-              <!-- Previous / next buttons -->
-<div class="prev-next-area">
-    <a class="left-prev" id="prev-link" href="api/pyspark.sql.Row.asDict.html" title="previous page">
-        <i class="fas fa-angle-left"></i>
-        <div class="prev-next-info">
-            <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">pyspark.sql.Row.asDict</p>
-        </div>
-    </a>
-    <a class="right-next" id="next-link" href="api/pyspark.sql.functions.col.html" title="next page">
-    <div class="prev-next-info">
-        <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">pyspark.sql.functions.col</p>
-    </div>
-    <i class="fas fa-angle-right"></i>
-    </a>
-</div>
+
               
           </main>
