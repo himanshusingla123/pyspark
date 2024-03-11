@@ -736,26 +736,6 @@
 </table>
 </section>
 </section>
-
-
-              </div>
-              
-              
-              <!-- Previous / next buttons -->
-<div class="prev-next-area">
-    <a class="left-prev" id="prev-link" href="pyspark.ss/api/pyspark.sql.streaming.StreamingQueryManager.resetTerminated.html" title="previous page">
-        <i class="fas fa-angle-left"></i>
-        <div class="prev-next-info">
-            <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">pyspark.sql.streaming.StreamingQueryManager.resetTerminated</p>
-        </div>
-    </a>
-    <a class="right-next" id="next-link" href="api/pyspark.ml.Transformer.html" title="next page">
-    <div class="prev-next-info">
-        <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Transformer</p>
-    </div>
-    <i class="fas fa-angle-right"></i>
-    </a>
+</div>
 </div>
 </main>
